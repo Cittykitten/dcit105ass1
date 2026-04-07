@@ -7,7 +7,7 @@ def get_list_stats(numbers):
     total = 0
     for num in numbers:
         total += num
-        
+
     # Average
     avg = total / n
     
