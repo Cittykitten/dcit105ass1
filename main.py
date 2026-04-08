@@ -29,3 +29,4 @@ def get_list_stats(numbers):
         median = sorted_nums[mid]
         
     return total, avg, largest, smallest, median
+    
